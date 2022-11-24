@@ -6,7 +6,7 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"A popular cartographic form used to depict U.S. and Canadian cities and towns during the late nineteenth and early twentieth centuries was the panoramic map. Known also as bird's-eye views, perspective maps, panoramas, and aero views, panoramic maps are nonphotographic representations of cities, portrayed as if viewed from above at an oblique angle. Although not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective.\" (Hebert & Dempsey)"},
+    "description":"The Third Trial of Rustam is an exciting story of how the Iranian hero Rustam slays a dragon on his way to free the Persian Emperor. It comes from the Shahnama, a book describing the myths and histories of heroes and kings since the beginning of Persian history. Rustam is a character whose life and tales are extensively explored in the book. The Seven Trials of Rustam are instrumental in his evolution into becoming a national hero. His legacy is that he is known as a great warrior, but Rustam never sits on the Iranian throne (Skjærvø, 1998, 163). \n\nIn this scene, Rustam falls asleep and his loyal horse Raksh wakes him up after a dragon is seen lurking nearby. After being unable to see it for first few times he is awaken, Rustam finally is able to see the dragon. He asks the dragon what its name is. The dragon ignores this and tells Rustam that no one survives the clutches of the dragon, so he asks what the man’s name is. Rustam replies with his name, and tells the dragon that he will vanquish him. The fighting begins between man and dragon. Raksh helps Rustam by sinking his teeth between the dragon’s shoulders to hold him. Rustam then cuts the head of the dragon off. This gives Rustam great confidence for the rest of his journey."},
     "geometry":{"type":"Point","coordinates":[0,0]}},
   {"type":"Feature","properties":
     {"id":2,
@@ -15,16 +15,16 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"The preliminary drawings for this work were made early in the spring of 1874. After a careful consideration of the subject, it was determined to locate the point of view so that the city would be seen from the southeast, believing that to be the most advantageous in all respects. Accordingly, the point of site was established on the Illinois side of the river, looking to the northwest, and at sufficient altitude to overlook the roofs of ordinary houses into the streets. A careful perspective, which required a surface of three hundred square feet, was then erected from a correct survey of the city, extending northward from Arsenal Island...\""},
+    "description":"One of the three characters in this scene is Rustam’s trusty steed Raksh. In the story, Raksh repeatedly tries to wake up the hero to warn him of a dragon approached. However, the dragon is able to vanish each time he wakes up, making Rustam angry that his horse woke him up. This happens several times, each time making Rustam angrier than the last. When Rustam is finally able to see the dragon and begins battling it, Raksh can see that his master is struggling. It’s said that Raksh \“bit at the dragon’s shoulders, tore the hide as though he were a lion.\” (Firdawsi, 1906, 50) His efforts surprise Rustam, who is able to finish off the dragon. This precise moment is what is illustrated on folio 68b. Raksh’s actions are similar to those of the first trial, in which Raksh kills a lion by sinking his teeth into its back. We can clearly see that Raksh’s eyes are pointed at Rustam, who stands on the opposite side of the image. This gaze gives off the impression that although Rustam treats his horse unfairly sometimes, Raksh is a loyal partner. This glance symbolizes the connection between horse and master, similar to how a young boy would look up to his father or mentor."},
     "geometry":{"type":"Point","coordinates":[1612,4554]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: Blue Accents",
+    "chapter":"Chapter 3: Blue Aspects",
     "zoom":4,
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"...to the Water Works, a distance of about ten miles, on the river front;\""},
+    "description":"On the legs and near the neck of the dragon, there are hints of blue that can be seen. These aspects of blue, which are the only prominent areas of blue in the scene, can be perceived as a regal or superior colour, as it is used in other illustrations in the Shahnama to identify prominent figures. This can symbolize the dragon’s importance and superiority over everyone and everything, because it is continually mentioned in the story how fierce the dragon is and how no one who had met with the dragon had come out of the encounter alive. Compared to other dragons in the Shahnama this dragon is quite unique. Not only does he have the capabilities to turn himself invisible, but he is given the ability to communicate and speak with Rustam (Omidsalar, 2001, 269). The overall magical power that he has puts the dragon above the rest. This superiority complex can be an influence of the blue hints that the illustrator chose to add. While it’s clear that in the story, the dragon sees no man or animal as his equal, it can also be said that he believes himself to be the dragon of all dragons. In this way, the dragon is seen as a ruler or king-like, to both man and dragon. Contrary to this though, the border around the entire illustration conveys a different message of who the supreme being is in the scene."},
     "geometry":{"type":"Point","coordinates":[1858,5032]}},
   {"type":"Feature","properties":
     {"id":4,
@@ -33,7 +33,7 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"...and from the Insane Asylum on the southwest... \""},
+    "description":"The simple, gold toned edging encloses the three characters into a small space. While both Raksh and the dragon are somewhat cropped out of the illustration, Rustam’s entire body remains in it. The figure of the man even passes over the borders to accommodate the entire image of him, while the other characters in this scene are limited to that same border. This technique shows that Rustam is the focus of this story. Although it is heavily based on the dragon, the image limitations of the dragon and focus of Rustam make it seem as though the man is greater than the dragon in this moment, when Rustam kills it. Moreover, the fact that Rustam crosses the border of the illustration gives off the sense that Rustam’s glory is so great, that he cannot be contained to the page. \n\nThe prominence of Rustam’s figure in the scene may represent his progressive growth as a hero and a warrior. Before his son embarked on the seven trials, the aging Zal worried that Rustam might have been too young to undertake such a task. However, in the end, he is able to confirm that Rustam is ready for the journey (Omidsalar, 2001, 264). The illustration of Rustam in his entirety shows how the character has gradually gained his confidence, and the growth he has had on his way to becoming a great warrior."},
     "geometry":{"type":"Point","coordinates":[3926,5328]}},
   {"type":"Feature","properties":
     {"id":5,
@@ -42,7 +42,7 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"...to the Cemeteries on the northwest. Every foot of the vast territory within these limits has been carefully examined and topographically drawn in perspective, by Mr. C. N. Dry and his assistants, and the faithfulness and accuracy with which this work has been done an examination of the pages will attest. Absolute truth and accuracy in the representation of the territory has been the standard and in no cases have additions or alterations been made unless the same were actually in course of construction. In a few cases, important public and private edifices that are not yet finished are shown completed, and as they will appear when done. All the buildings within the limits of the survey in July, 1875, are shown; and a very large number of those executed or commenced since that date have been also introduced, the pages having been constantly corrected up to the last possible moment before publication.\""},
+    "description":"Our hero is seen in this illustration with a beard. This makes him look as though he is experienced in battle and well into adulthood. This makes the scene feel safe or effortless, because it seems like Rustam is experienced enough that slaying creatures of this magnitude is second nature to him. However, the context of the story reveals that Rustam is merely in his teenage years (Omidsalar, 2001, 264). Similar to how Rustam’s figure crosses the border of the illustration, the facial hair represents a growth in the character’s selfhood. The end result of the Seven Trials of Rustam is that he is able to defeat the White Div and save the Persian Emperor, but it is also a journey that leads to the cultivation of Rustam’s distinct identity. For every trial that the hero conquers, he is able to separate himself from his role as \“a mere pawn in the hands of his father Zal\” to form a new role as Rustam, the distinct and self-assured warrior (Omidsalar, 2001, 270). In this third story, the act of slaying the mighty dragon gives Rustam a sense of power that is maintained through all of the trials."},
     "geometry":{"type":"Point","coordinates":[3193,4426]}},
   {"type":"Feature","properties":
     {"id":6,
@@ -51,7 +51,7 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"Rustam is seen wearing clothing made from animal skin in this scene, specifically of a large cat. This is reminiscent of The Court of Gayumars, also featured in the Shahnama, whose king taught the people to wear leopard skins. The king, Gaiúmart, was described in this book as being a great ruler, and beloved by all, people and animals alike. While the animal skin worn by Rustam could be simply coincidental, it’s safe to say that it creates noticeable comparisons of the two figures. In addition to his clothing, Rustam is also shown wearing a helmet that is covered by the face of a leopard. The mention of his clothing comes when Rustam goes back to sleep after Raksh wakes him up to warn him of the dragon. Rustam has his \“tiger-skin upon his breast\” while sleeping (Firdawsi, 1906, 48). This verse creates an obvious component that must be included in the illustration. Images of Rustam in other manuscripts follow the same suit, dressing him in various big cat skins (Melikian-Chirvani, 1998, 177). All this aside though, these two components of Rustam’s attire still make an undeniable tie to the revered first King of Iran, and the incorporation of the animal skins shows Rustam as great and superior while he slays the fierce dragon, similar to how Gaiúmart had been seen during his rule."},
     "geometry":{"type":"Point","coordinates":[3544,4802]}},
  {"type":"Feature","properties":
     {"id":7,
@@ -60,7 +60,7 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"Looking more centrally at the illustration, the focus of the scene is Rustam and the head of the dragon. This is the part of the entire folio that attracts the gaze of the viewer. We can see that Rustam is slaying the dragon by decapitating him with a sword. The mouth of the dragon has sharp teeth, and his eyes are wide open and cruel looking, depicted the dragon as something that comes only from nightmares. The terrifying visual of the dragon demonstrates its fierceness and deadliness, accentuating the impressive skill that Rustam needed to have slayed it. The blood of the dragon is spilled out onto the ground, which gives the scene excitement and a sense of accomplishment. It indicates that Rustam has attained victory, and that the dragon is finally dead. Moreover, the blood that is spills onto the blue aspects of the dragon represents the end of the dragon’s supremacy. \n\nThe story is familiar to that of Herakles, or more commonly, Hercules. The act of vanquishing an unfathomable monster is reminiscent to the Hydra of Lerna that Hercules defeats in his tales (Melikian-Chirvani, 1998, 178). Like Hercules, Rustam is seen as a courageous hero, which is well captured in the illustration of folio 68b."},
     "geometry":{"type":"Point","coordinates":[2885,5345]}},
  {"type":"Feature","properties":
     {"id":8,
@@ -69,7 +69,7 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"Abu ʾl-Qasim Firdowsi Tusi. \“The Third Course: How Rustam Fought With A Dragon.\” In The Shahnama of Firdausi. Vol. II. 9 vols. Translated by Arthur G. Warner and Edmond Warner, 48-50. London: Kegan Paul, Trench, Trubner & Co. Ltd., 1906. https://archive.org/details/FirdausiShahnamaTrWarnerVol2/page/n55/mode/2up \n\nMelikian-Chirvani, A. S. 1998. \“Rostam and Herakles, a Family Resemblance.\” Bulletin of the Asia Institute 12: 171–99. http://www.jstor.org/stable/24049102."},
     "geometry":{"type":"Point","coordinates":[0,7026]}},
 {"type":"Feature","properties":
     {"id":9,
@@ -78,6 +78,6 @@
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"Jones, Tyra (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). “Ibrahim Sultan hunting.” In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
     "geometry":{"type":"Point","coordinates":[4932,7026]}}    
     ]}
